@@ -1,0 +1,3 @@
+variable "stringvar" {
+  type = string
+}
